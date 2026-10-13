@@ -110,17 +110,19 @@ public class ArrayUtil {
                 } else {
                     zeroCount++;
                 }
-            }System.out.println("Positive number count: " +positiveCount );
+            }
+            System.out.println("Positive number count: " + positiveCount);
             System.out.println("Negative number count: " + negativeCount);
             System.out.println("Zero number count: " + zeroCount);
         }
         //Bonus 3
-        for (int i = numbers.length-1; i >=0 ; i--) {
+        for (int i = numbers.length - 1; i >= 0; i--) {
             System.out.print(numbers[i] + " ");
 
-        }
+
         }
     }
+}
 
 
 
