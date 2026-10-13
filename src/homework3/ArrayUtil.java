@@ -96,7 +96,7 @@ public class ArrayUtil {
 
         }
         System.out.println("Maximum " + max);
-        //Bonus 1
+        //Bonus 2
         {
             int positiveCount = 0;
             int negativeCount = 0;
