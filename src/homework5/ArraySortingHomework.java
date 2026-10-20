@@ -1,4 +1,4 @@
-package homework.homework5;
+package homework5;
 
 public class ArraySortingHomework {
     public static void main(String[] args) {
@@ -39,3 +39,4 @@ public class ArraySortingHomework {
 
     }
 }
+
